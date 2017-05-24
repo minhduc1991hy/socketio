@@ -1,0 +1,14 @@
+{
+  "name": "socket io",
+  "version": "0.0.1",
+  "description": "my stady socket io",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-ejs-layouts": "^2.3.0",
+    "mongodb": "^2.2.26",
+    "mysql": "^2.13.0",
+    "sails": "^0.12.13",
+    "socket.io": "^1.7.3"
+  }
+}
